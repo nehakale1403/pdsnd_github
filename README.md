@@ -5,7 +5,7 @@
 Bikeshare with python 
 
 ### Description
-The project uses Pandas and NumPy to calculate and analyze the data of bikeshare in New York City, Chicago and Washington.
+The project uses Pandas, NumPy and various libraries of python to calculate and analyze the data of bikeshare in New York City, Chicago and Washington.
 
 ### Files used
 Following files:
