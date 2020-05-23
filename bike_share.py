@@ -195,7 +195,7 @@ def display_data(df):
             for i in range(5):
                 print(df.iloc[i])
                 print("\n")
-            choice = input('Another five? Yes/No ').lower()
+            choice = input('Another five?Enter Yes/No ').lower()
             if choice=='yes' or choice=='y':
                 continue
             elif choice=='no' or choice=='n':
