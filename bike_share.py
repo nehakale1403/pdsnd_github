@@ -159,7 +159,7 @@ def user_stats(df):
     print('\n')
     # TO DO: Display earliest, most recent, and most common year of birth
     if 'Birth Year' not in df:
-        print('No Birth Year data available for this place!!!')
+        print('Unfortunately, No Birth Year data available for this place!!!')
     else:
         
         #earliest
