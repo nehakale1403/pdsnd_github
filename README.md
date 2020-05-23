@@ -5,11 +5,15 @@
 Bikeshare with python 
 
 ### Description
-Describe what your project is about and what it does
+The project uses Pandas and NumPy to calculate and analyze data of bikeshare in New York city, Chicago and Washington.
 
 ### Files used
-Include the files used
+bikeshare.py
+new_york_city.csv
+chicago.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Google Numpy documentations,
+Pandas documentation,
+https://github.com/abhinavjha98
