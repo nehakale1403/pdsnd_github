@@ -1,15 +1,20 @@
 ### Date created
-Include the date you created this project and README file.
+23 May 2020
 
 ### Project Title
-Replace the Project Title
+Bikeshare with python 
 
 ### Description
-Describe what your project is about and what it does
+The project uses Pandas, NumPy and various libraries of python to calculate and analyze the data of bikeshare in New York City, Chicago and Washington.
 
 ### Files used
-Include the files used
+Following files:
+bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Google Numpy documentations,
+Pandas documentation,
+https://github.com/abhinavjha98
